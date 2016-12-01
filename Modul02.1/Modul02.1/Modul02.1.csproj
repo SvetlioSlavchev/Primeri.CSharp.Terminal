@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{18430E9A-B6E6-496A-8C67-E9D52F64EFFF}</ProjectGuid>
+    <ProjectGuid>{91B33627-AF33-4B38-97E9-32ACD1CF48A9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Modul02</RootNamespace>
-    <AssemblyName>Modul02</AssemblyName>
+    <AssemblyName>Modul02.1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
