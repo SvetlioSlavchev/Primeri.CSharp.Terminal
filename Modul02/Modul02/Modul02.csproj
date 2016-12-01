@@ -3,7 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{C0CB80B8-2BF9-4B97-B693-E3E101BCB93C}</ProjectGuid>
+=======
+    <ProjectGuid>{5B49A39A-8C60-449D-AA28-D49C0C1969A7}</ProjectGuid>
+>>>>>>> cdb48b24eb8c0c51d6f23cbc5cac99b60d09e825
     <OutputType>WinExe</OutputType>
     <RootNamespace>Modul02</RootNamespace>
     <AssemblyName>Modul02</AssemblyName>
