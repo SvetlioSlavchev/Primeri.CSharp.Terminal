@@ -1,0 +1,17 @@
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\Modul02.exe
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\Modul02.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\atk-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\gdk-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\glade-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\glib-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\gtk-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\Mono.Posix.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\pango-sharp.dll
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\gdk-sharp.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\glib-sharp.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\glade-sharp.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\pango-sharp.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\bin\Debug\atk-sharp.pdb
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\obj\x86\Debug\Modul02.csprojResolveAssemblyReference.cache
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\obj\x86\Debug\Modul02.exe
+C:\aula\primeri.csharp.terminal\Modul02\Modul02\obj\x86\Debug\Modul02.pdb
